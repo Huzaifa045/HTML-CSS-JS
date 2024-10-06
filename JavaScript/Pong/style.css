@@ -1,0 +1,29 @@
+html {
+    background: url("img/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+body {
+    text-align: center;
+
+}
+
+canvas {
+    background: lightblue;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: fantasy;
+    color: rgb(75, 43, 255);
+}
+
+p {
+    color:darkgreen;
+    background: rgb(0, 255, 55);
+    border-radius: 100%;
+    font-size: x-large;
+    font-family: fantasy;
+}

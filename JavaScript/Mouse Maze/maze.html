@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <title>The Amazing Mouse Maze</title>
+    <meta charset="utf-8">
+    
+    <link rel="stylesheet" type="text/css" href="maze.css">
+</head>
+
+<body>
+    <h1>Mouse Maze Game
+    </h1>
+    <p>
+        Move your mouse over the "S" to begin.
+    </p>
+    <div id="result"></div>
+    <div id="wholeMaze">
+        <div id="firstRow" class="wall"></div>
+
+        <div id="middle">
+            <div id="one" class="wall"></div>
+            <div id="two" class="wall"></div>
+            <div id="three" class="wall"></div>
+            <div id="start">S</div>
+            <div id="end">E</div>
+
+        </div>
+
+        <div id="lastRow" class="wall"></div>
+
+    </div>
+
+    <p id="info"> You have to move Your mouse through the maze without touching the walls. Be careful!
+    </p>
+   
+    <script src="maze.js"></script>
+</body>
+
+</html>

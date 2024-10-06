@@ -1,0 +1,35 @@
+html {
+    background: blanchedalmond;
+}
+
+body {
+    text-align: center;
+}
+
+#result {
+    margin: auto;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    border:5px solid;
+    border-radius:10px;
+    background-color:white;
+    width:200px;
+    height:60px; 
+}
+
+#numcookies {
+    font-size: x-large;
+    color: indianred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.upgrades {
+    text-align: left;
+    padding-left: 20px;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color: crimson;
+}

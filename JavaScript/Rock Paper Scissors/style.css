@@ -1,0 +1,27 @@
+html {
+    background: burlywood;
+}
+
+body {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.8);
+    width: 500px;
+    margin:0 auto;
+    padding: 10px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+h2 {
+    padding-top: 0px;
+}
+
+button {
+    border-radius: 20px;
+    background: crimson;
+    cursor: pointer;
+    color: black;
+    width: 100px;
+    height: 60px;
+    font-size: large;
+    font-family: serif;
+}

@@ -1,0 +1,35 @@
+html {
+    background: blanchedalmond;
+}
+
+body {
+    text-align: center;
+}
+
+.coinSelector {
+    border-radius: 20px;
+    background: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 20px;
+}
+
+#flip {
+    margin-top: 50px;
+    background: coral;
+    padding: 15px 32px;
+    border-radius: 15px;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+#coin {
+    border-radius: 20px;
+}
+
+.counter {
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 20px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
